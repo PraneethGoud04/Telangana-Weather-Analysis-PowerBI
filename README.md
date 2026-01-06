@@ -1,20 +1,20 @@
 # Telangana-Weather-Analysis-PowerBI
 Power BI project analyzing Telangana weather data (2021–2024) to uncover trends, seasonal patterns, and regional variations in rainfall, temperature, humidity, and wind speed.
-# Telangana Weather Data Analysis (2021–2024) 🌦️
+# Telangana Weather Data Analysis (2021–2024) 
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing historical weather data of Telangana from 2021 to 2024 using **Power BI**.  
 The objective is to uncover meaningful insights related to **rainfall, temperature, humidity, and wind speed** by leveraging interactive dashboards and data visualization techniques.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 Weather conditions in Telangana vary significantly across districts and seasons.  
 Although historical weather data is available, it lacks a centralized and interactive analytical view, making it difficult to identify trends, seasonal patterns, and extreme weather events for data-driven decision-making.
 
 ---
 
-## 🧠 Objectives
+## Objectives
 - Analyze multi-year weather data of Telangana (2021–2024)
 - Identify seasonal and yearly trends
 - Compare district-wise and mandal-wise variations
@@ -23,7 +23,7 @@ Although historical weather data is available, it lacks a centralized and intera
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 - **Time Period:** 2021 – 2024  
 - **Granularity:** Daily data at district and mandal levels  
 - **Weather Parameters:**
@@ -34,7 +34,7 @@ Although historical weather data is available, it lacks a centralized and intera
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Power BI Desktop**
 - **Power Query** – Data cleaning and transformation
 - **DAX (Data Analysis Expressions)** – Calculated measures
@@ -42,7 +42,7 @@ Although historical weather data is available, it lacks a centralized and intera
 
 ---
 
-## 🔄 Data Preparation & Modeling
+##  Data Preparation & Modeling
 - Combined multiple yearly and monthly CSV files using Power Query
 - Created date attributes (Year, Month, Month Number) for time-based analysis
 - Built calculated measures for average weather parameters
@@ -51,7 +51,7 @@ Although historical weather data is available, it lacks a centralized and intera
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 The Power BI dashboard consists of multiple pages:
 - **Comprehensive Weather Overview**
 - **Rainfall Analysis**
@@ -63,7 +63,7 @@ Interactive slicers allow filtering by **Year, District, and Month**, enabling d
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - A major portion of annual rainfall (approximately 70–80%) occurs during monsoon months
 - Temperature shows strong seasonal patterns with summer peaks
 - Humidity levels closely correlate with rainfall trends
@@ -72,7 +72,7 @@ Interactive slicers allow filtering by **Year, District, and Month**, enabling d
 
 ---
 
-## 📈 Project Outcome
+## Project Outcome
 This project demonstrates how raw weather data can be transformed into actionable insights using Power BI, supporting:
 - Agriculture planning
 - Water resource management
@@ -81,7 +81,7 @@ This project demonstrates how raw weather data can be transformed into actionabl
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 - Integration of real-time weather data
 - Forecasting using predictive models
 - Automated data refresh and alerts
@@ -89,14 +89,14 @@ This project demonstrates how raw weather data can be transformed into actionabl
 
 ---
 
-## 📁 Files Included
+##  Files Included
 - `PowerBI Final Project.pbix` – Power BI dashboard file
 - Weather datasets (CSV / Excel)
 - Project documentation (README)
 
 ---
 
-## 👤 Author
+## Author
 **E. Praneeth Goud**  
 Aspiring Data Analyst | Power BI Enthusiast  
 
